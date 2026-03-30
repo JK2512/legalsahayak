@@ -368,6 +368,10 @@ curl -X POST http://localhost:8000/api/v1/qa/ask \
     }
   }'
 ```
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/b01c0392-5021-4d11-89a1-91f2163ba855" />
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/2e9074b6-767b-4eb1-be55-a2f7bc0182a1" />
+<img width="1897" height="929" alt="image" src="https://github.com/user-attachments/assets/ca324794-7ab9-4140-8723-aee80faa9c69" />
+
 
 ---
 
